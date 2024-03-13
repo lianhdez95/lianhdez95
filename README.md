@@ -5,7 +5,7 @@ Mis habilidades clave incluyen:
 
 UI/UX Design: Diseño de interfaces de usuario intuitivas y atractivas. He colaborado en proyectos que van desde aplicaciones móviles hasta sitios web, asegurando que cada detalle sea coherente y agradable para el usuario final.
 
-Flutter: Como desarrollador de aplicaciones móviles, he utilizado Flutter para crear aplicaciones multiplataforma. La capacidad de compartir código entre iOS y Android me ha permitido acelerar el desarrollo y ofrecer experiencias consistentes en ambas plataformas.
+Flutter: Principalmente,como desarrollador de aplicaciones móviles, he utilizado Flutter para crear aplicaciones multiplataforma. La capacidad de compartir código entre iOS y Android me ha permitido acelerar el desarrollo y ofrecer experiencias consistentes en ambas plataformas.
 
 React y Next.js: Mi experiencia en React y Next.js me ha permitido construir aplicaciones web modernas y receptivas. Desde componentes reutilizables hasta enrutamiento dinámico, estoy familiarizado con las mejores prácticas y las últimas tendencias en desarrollo web.
 
