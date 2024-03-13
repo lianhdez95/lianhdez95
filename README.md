@@ -1,5 +1,5 @@
 ### Hola, soy el Ing. Lian Hernández 👋
-## Con más de un año de experiencia en el mundo del desarrollo front-end, soy un apasionado por crear interfaces atractivas y funcionales. Mi enfoque se centra en la experiencia del usuario y la estética, y he trabajado en una variedad de proyectos emocionantes.
+## Con dos años de experiencia en el mundo del desarrollo front-end, soy un apasionado por crear interfaces atractivas y funcionales. Mi enfoque se centra en la experiencia del usuario y la estética, y he trabajado en una variedad de proyectos emocionantes.
 
 Mis habilidades clave incluyen:
 
